@@ -1,0 +1,12 @@
+type: ChoiceQuestion
+id: ageofbrothers
+value: 2
+prompt: |
+    # 弟弟和哥哥的年龄
+    今年弟弟8岁，哥哥14岁，当年龄之和为40岁时，应当是几年以后的事情呢？
+choices:
+
+  - ~CORRECT~ 9
+  - 7
+  - 8
+  - 10
